@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Kramola';
+    src: url('Kramola.eot');
+    src: local('Kramola'),
+        url('Kramola.eot?') format('embedded-opentype'),
+        url('Kramola.woff2') format('woff2'),
+        url('Kramola.woff') format('woff'),
+        url('Kramola.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+  font-family: "Bit Blocks TTF BRK";
+  src: url("bitbttf.ttf"); /* IE9*/
+  src:
+  url("bitbttf.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+}
